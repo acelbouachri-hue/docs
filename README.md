@@ -17,7 +17,7 @@ layout:
 
 # 👋 Welcome
 
-<h2 align="center">JG Scripts Docs</h2>
+<h2 align="center">NeoFive Scripts Docs</h2>
 
 <p align="center">Installation guides, tutorials, integrations &#x26; more.</p>
 

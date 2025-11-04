@@ -2,7 +2,7 @@
 
 ## Setting the language in our scripts
 
-Every script from JG Scripts is fully translatable out of the box (except Scoreboard). Simply head to `config.lua`, and update the `Config.Locale` option. You can find a list of available translations inside the `locales` folder.
+Every script from NeoFive Scripts is fully translatable out of the box (except Scoreboard). Simply head to `config.lua`, and update the `Config.Locale` option. You can find a list of available translations inside the `locales` folder.
 
 The name of the file (without the .lua extension) is the value you set `Config.Locale` to. For example, if you see a locale file called `de.lua`, update the config to `Config.Locale = "de"`
 
