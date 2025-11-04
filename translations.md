@@ -10,7 +10,7 @@ The name of the file (without the .lua extension) is the value you set `Config.L
 
 All translations for all our scripts are handled from the translations repository, found on GitHub:
 
-{% embed url="https://github.com/jgscripts/translations" %}
+{% embed url="https://neofive.gitbook.io/docs/translations" %}
 
 Before each new release, all the latest translations are automatically pulled from this repository to ensure our scripts are up to date with the best translations available.
 
